@@ -1,3 +1,5 @@
+import requests
+from fastapi import HTTPException
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
 from datetime import date
