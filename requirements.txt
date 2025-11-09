@@ -2,3 +2,5 @@ fastapi
 uvicorn[standard]
 pydantic
 requests
+# Nuevo requisito para Vercel:
+vercel-python
